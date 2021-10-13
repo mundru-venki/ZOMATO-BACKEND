@@ -3,8 +3,8 @@
 //AWS s3 bucket config
 
  const s3Bucket = new AWS.S3({
-     accessKeyId: "AKIAWL3C2C5CXKHYFTSZ",
-     secretAccessKey: "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",
+     accessKeyId: "",
+     secretAccessKey: "",
      region: "ap-south-1"
  });
 
